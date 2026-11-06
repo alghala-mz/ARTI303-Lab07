@@ -1,0 +1,43 @@
+55 ?- consult(['c:/Users/ghala/OneDrive - IMAM ABDULRAHMAN BIN FAISAL UNIVERSITY/Desktop/shopping.pl          ']).
+true.
+
+56 ?- start.
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: d.
+coffee
+milk
+chocolate
+apple
+juice
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: |: a.
+Enter item to add: |: bread.
+The item has been added.
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: |: d.
+coffee
+milk
+chocolate
+apple
+juice
+bread
+
+** SHOPPING LIST **
+d. display all items.
+a. Add an item to the list.
+e. exit.
+ENTER YOUR CHOICE: |: e.
+Goodbye!
+true .
